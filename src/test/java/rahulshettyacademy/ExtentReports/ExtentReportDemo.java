@@ -28,7 +28,10 @@ public class ExtentReportDemo {
 		extentReport.setSystemInfo("Tester", "Mayank");
 		System.out.println("Git hub practice 1");
 		System.out.println("Git hub practice 2");
-		
+		System.out.println("Git hub practice 3");
+		System.out.println("Git hub practice 4");
+		System.out.println("Git hub practice 5");
+		System.out.println("Git hub practice 6");
 	}
 	
 	@Test
