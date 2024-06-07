@@ -9,4 +9,9 @@ public class Demo {
 		
 		System.out.println("Demo Method");
 	}
+	@Test
+	public void demoMethod2() {
+		
+		System.out.println("Demo Method");
+	}
 }
