@@ -49,5 +49,9 @@ public class ExtentReportDemo {
 		extentReport.flush();
 		
 	}
+	@Test
+	public void Demo2() {
+		System.out.println("This is Demo2");
+	}
 
 }
