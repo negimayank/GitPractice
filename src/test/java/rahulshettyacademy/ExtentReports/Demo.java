@@ -14,4 +14,9 @@ public class Demo {
 		
 		System.out.println("Demo Method");
 	}
+	@Test
+	public void demoMethod3() {
+		
+		System.out.println("Demo Method");
+	}
 }
