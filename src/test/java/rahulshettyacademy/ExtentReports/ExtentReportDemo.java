@@ -42,6 +42,8 @@ public class ExtentReportDemo {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com");
 		System.out.println(driver.getTitle());
+		System.out.println("Git hub practice 7");
+		System.out.println("Git hub practice 8");
 		//driver.close();
 		test.fail("Results do not match");
 		extentReport.flush();
