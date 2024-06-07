@@ -53,5 +53,13 @@ public class ExtentReportDemo {
 	public void Demo2() {
 		System.out.println("This is Demo2");
 	}
+	@Test
+	public void Demo3() {
+		System.out.println("This is Demo2");
+	}
+	@Test
+	public void Demo4() {
+		System.out.println("This is Demo2");
+	}
 
 }
